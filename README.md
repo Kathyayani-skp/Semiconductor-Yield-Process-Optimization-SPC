@@ -1,1 +1,1 @@
-# Semiconductor-Yield-Process-Optimization-SPC
+# Semiconductor Yield & Process Optimization Study
